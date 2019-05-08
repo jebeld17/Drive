@@ -1,0 +1,1 @@
+robocopy ".\" "$env:USERPROFILE\AppData\Roaming\Drive" /COPYALL /E /V /R:10 /W:30 
